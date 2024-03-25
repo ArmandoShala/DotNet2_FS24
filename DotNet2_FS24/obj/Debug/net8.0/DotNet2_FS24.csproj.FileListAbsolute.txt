@@ -1,0 +1,15 @@
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\bin\Debug\net8.0\DotNet2_FS24.exe
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\bin\Debug\net8.0\DotNet2_FS24.deps.json
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\bin\Debug\net8.0\DotNet2_FS24.runtimeconfig.json
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\bin\Debug\net8.0\DotNet2_FS24.dll
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\bin\Debug\net8.0\DotNet2_FS24.pdb
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.AssemblyInfoInputs.cache
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.AssemblyInfo.cs
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.csproj.CoreCompileInputs.cache
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.sourcelink.json
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.dll
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\refint\DotNet2_FS24.dll
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.pdb
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\DotNet2_FS24.genruntimeconfig.cache
+C:\Development\ZHAW\Sem8\DotNet2_FS24\DotNet2_FS24\obj\Debug\net8.0\ref\DotNet2_FS24.dll
