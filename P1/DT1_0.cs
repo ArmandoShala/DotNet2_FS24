@@ -24,7 +24,7 @@ public class StudentClass
 {
     public Func<Student, string, bool> studentSelector = (student, s) => student.LastName == s;
     public GradeCalc gradeCalculator = (scores) => Math.Round(((double)scores.Sum() / scores.Count() * 5 / 100 + 1) * 2, MidpointRounding.AwayFromZero) / 2;
-    public Func<Student, bool> passedSelector = (student) => student.Grade > 4;
+    public Func<Student, bool> passedSelector = (student) => student.Grade > 4 && student.Year == GradeLevel.FourthYear;
 
     #region data
 
