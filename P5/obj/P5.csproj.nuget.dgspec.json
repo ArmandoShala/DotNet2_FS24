@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\ZHAW\\Sem8\\DotNet2_FS24\\P5\\P5.csproj": {}
+    "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/RiderProjects/DotNet2/P5/P5.csproj": {}
   },
   "projects": {
-    "C:\\Development\\ZHAW\\Sem8\\DotNet2_FS24\\P5\\P5.csproj": {
+    "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/RiderProjects/DotNet2/P5/P5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\ZHAW\\Sem8\\DotNet2_FS24\\P5\\P5.csproj",
+        "projectUniqueName": "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/RiderProjects/DotNet2/P5/P5.csproj",
         "projectName": "P5",
-        "projectPath": "C:\\Development\\ZHAW\\Sem8\\DotNet2_FS24\\P5\\P5.csproj",
-        "packagesPath": "C:\\Users\\ASH\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\ZHAW\\Sem8\\DotNet2_FS24\\P5\\obj\\",
+        "projectPath": "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/RiderProjects/DotNet2/P5/P5.csproj",
+        "packagesPath": "/Users/armandoshala/.nuget/packages/",
+        "outputPath": "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/RiderProjects/DotNet2/P5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/armandoshala/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\CMI-Github\\NugetCache": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/NVDrFnaYAHV25yVToaBJTt1KdROnlwk1iek9iCmytJkVXJzzzF/api": {},
-          "https://nuget.pkg.github.com/CMInformatik/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -48,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

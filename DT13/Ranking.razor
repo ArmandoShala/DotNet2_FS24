@@ -1,0 +1,45 @@
+@page "/fetchdata"
+
+<PageTitle>Ranking List</PageTitle>
+
+@using DT13.Data
+@inject CompetitorService CompetitorService
+
+<h1>Ranking List</h1>
+
+@if (Competitors == null)
+{
+<p>
+    <em>Loading...</em></p>
+}
+else
+{
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Time</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var c in Competitors)
+    {
+    <tr>
+        <td>@c.Name</td>
+        <td>@c.Time</td>
+
+    </tr>
+    }
+    </tbody>
+</table>
+}
+
+@code {
+private List<Competitor>? Competitors { get; set; }
+
+protected override async Task OnInitializedAsync()
+{
+Competitors = await CompetitorService.GetRankingList();
+}
+}

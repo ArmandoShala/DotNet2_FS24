@@ -1,0 +1,17 @@
+@page
+    @model DT10.Pages.RankingListModel
+    @{
+        <table>
+            @foreach (var c in ViewData.Model.Competitors)
+        {
+            <tr>
+                <td>
+                    @c.name
+                </td>
+                <td>
+                    @c.time
+                </td>
+            </tr>
+        }
+        </table>
+    }
